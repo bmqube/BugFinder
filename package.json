@@ -10,9 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bmqube/BugFinder.git"
   },
-  "keywords": [
-    "bugfinder"
-  ],
+  "keywords": [],
   "author": "BM Monjur Morshed",
   "license": "ISC",
   "bugs": {
